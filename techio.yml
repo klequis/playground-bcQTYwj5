@@ -1,7 +1,9 @@
-title: Node.js Project
+title: My Playground
 plan:
-- title: Welcome
+- title: Welcome All
   statement: markdowns/welcome.md
+- title: Part 2
+  statement: markdowns/part2.md
 projects:
   nodejs:
     root: /nodejs-project
